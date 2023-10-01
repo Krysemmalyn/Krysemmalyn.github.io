@@ -12,3 +12,7 @@
 # Activity 3: Theme Change
 ![L2 Activity 3 Repo](https://github.com/Krysemmalyn/Krysemmalyn.github.io/assets/99698023/27bd7a4a-54b5-448d-a223-4433974fc793)
 ![L2 Activity 3 Homepage](https://github.com/Krysemmalyn/Krysemmalyn.github.io/assets/99698023/8d6c1c77-08ef-461f-9bbe-2712b1b3dc89)
+
+# Activity 4: Embedded Map
+![L2 Activity 4 Repo](https://github.com/Krysemmalyn/Krysemmalyn.github.io/assets/99698023/f8570827-5cc8-42ca-a82a-a85dfce96483)
+![L2 Activity 4 Map](https://github.com/Krysemmalyn/Krysemmalyn.github.io/assets/99698023/72ca529d-f6e3-4b82-b3e6-32025651dd9e)
