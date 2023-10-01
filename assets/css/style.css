@@ -356,7 +356,7 @@ h3 {
 }
 
 .overlay {
-  background-color: rgba(88, 6, 6, 0.4);
+  background-color: rgba(193, 151, 151, 0.57);
   height: 100%;
   left: 0;
   position: absolute;
@@ -559,7 +559,7 @@ small {
 /* .teal */
 
 .teal {
-  background-color: #8b5270 !important;
+  background-color: #80005a !important;
 }
 
 /* .teal {
@@ -602,7 +602,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #ac3650;
     height: 56px;
     line-height: 56px;
   }
